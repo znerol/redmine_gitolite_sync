@@ -1,0 +1,3 @@
+= Redmine Gitolite Sync
+
+Provides a rake task to sync repositories from gitolite
